@@ -1,3 +1,6 @@
+<img width="1536" height="1004" alt="1000728152" src="https://github.com/user-attachments/assets/62730dab-ba35-4290-b3fb-d266a4386eea" />
+
+
 # TDTH THD MC
 
 "TĐTH THĐ MC" (short for Tran Hung Dao Primary School) is an upcoming experiential world featuring our high-quality products, developed by MinhthongVNMC Studio; it is set to launch in early September 2026.

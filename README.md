@@ -1,2 +1,3 @@
 # TĐTH THĐ Minecraft
-Tran Hung Dao Primary School at 494 Vo Van Kiet in Minecraft Bedrock Edition by MinhthongVNMC Studio is an independent construction project/map.
+
+TĐTH THĐ MC Viết tắt là Trường Tiểu Học Trần Hưng Đạo là một sắp ra mắt mang thế giới trải nghiệm phẩm sản của chúng tôi chất lượng và được xây dựng bởi MinhthongVNMC Studio, Do đó bắt đầu xuất hiện đầu tiên vào cuối đầu tháng 9 năm 2026

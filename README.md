@@ -14,7 +14,7 @@
 
 ### 📌 Project Information
 
-- **Project Name:** TĐTH THĐ MC
+- **Project Name:** TDTH THD MC
 - **Main Developer / Studio:** MinhthongVNMC Studio
 - **Platform:** Minecraft Java & Bedrock Edition
 - **Initial Creation Date:** September 8th, 2026

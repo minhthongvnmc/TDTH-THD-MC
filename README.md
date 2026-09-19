@@ -1,4 +1,4 @@
-# TĐTH THĐ Minecraft
+# TĐTH THĐ MC
 
 "TĐTH THĐ MC" (short for Tran Hung Dao Primary School) is an upcoming experiential world featuring our high-quality products, developed by MinhthongVNMC Studio; it is set to launch in early September 2026.
 

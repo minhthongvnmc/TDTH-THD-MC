@@ -15,8 +15,7 @@
 | **Release date** | November 22, 2026 
 | **Genre(s)** | Creation |
 | **Languages** | English, Vietnamese |
-| **Players** | Single player, Multiplayer (1-5) |
-| **Trang web** | ... |
+| **Download** | ... |
 
 ---
 

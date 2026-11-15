@@ -2,9 +2,21 @@
 
 **Tran Hung Dao Primary School** (Campus 2) in Minecraft is a map project created by ThongVNMC Studio for the Minecraft Bedrock Edition platform. The build is inspired by and faithfully replicates the actual school, which is located on Vo Van Kiet Street in Cau Ong Lanh Ward (District 1, Ho Chi Minh City).
 
-**TH Trần Hưng Đạo MC**
+---
+
+### TH Trần Hưng Đạo MC
+
 <img width="854" height="480" alt="1000730381" src="https://github.com/user-attachments/assets/753954ab-738e-408d-9560-0538c82c5419" />
 
+| | |
+| :--- | :--- |
+| **Map maker(s)** | ThongVNMC Studio |
+| *Price** | Free |
+| **Release date** | November 22, 2026 |
+| **Tags** | Creation |
+| **Genre(s)** | ... |
+| **Players** | Single player, Multiplayer (1-5) |
+| **Trang web** | ... |
 
 ---
 

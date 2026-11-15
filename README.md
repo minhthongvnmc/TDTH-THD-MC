@@ -1,11 +1,10 @@
-<img width="2340" height="1080" alt="1000728515" src="https://github.com/user-attachments/assets/cca31d34-c069-47a3-95e2-9ad9082e35b6" />
+# TH Trần Hưng Đạo MC (Vietnam)
 
+Tran Hung Dao Primary School (Campus 2) in Minecraft is a map project created by ThongVNMC Studio for the Minecraft Bedrock Edition platform. The build is inspired by and faithfully replicates the actual school, which is located on Vo Van Kiet Street in Cau Ong Lanh Ward (District 1, Ho Chi Minh City).
 
+TH Trần Hưng Đạo MC
+<img width="854" height="480" alt="1000730381" src="https://github.com/user-attachments/assets/753954ab-738e-408d-9560-0538c82c5419" />
 
-
-# TDTH THD MC
-
-"TĐTH THĐ MC" (short for Tran Hung Dao Primary School) is an upcoming experiential world featuring our high-quality products, developed by ThongVNMC Studio; it is set to launch in early September 2026.
 
 ---
 

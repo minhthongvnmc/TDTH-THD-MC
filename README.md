@@ -11,7 +11,7 @@
 | | |
 | :--- | :--- |
 | **Map maker(s)** | ThongVNMC Studio |
-| *Price** | Free |
+| **Price** | Free |
 | **Release date** | November 22, 2026 |
 | **Tags** | Creation |
 | **Genre(s)** | ... |

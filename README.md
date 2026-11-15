@@ -12,9 +12,9 @@
 | :--- | :--- |
 | **Map maker(s)** | ThongVNMC Studio |
 | **Price** | Free |
-| **Release date** | November 22, 2026 |
+| **Release date** | November 22, 2026 
 | **Genre(s)** | Creation |
-| **Tags** | ... |
+| **Languages** | English, Vietnamese |
 | **Players** | Single player, Multiplayer (1-5) |
 | **Trang web** | ... |
 
